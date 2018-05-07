@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pepperoni pizza</string>
+    <string name="splash">hi help i\'ve run out of ideas</string>
+    <string name="start_button">START GAME</string>
+    <string name="quit_button">QUIT TO HOME</string>
+    <string name="title">the pizza is aggressive</string>
+    <string name="fail">YOUR SCORE DOESN\'T MATTER LOSER</string>
+</resources>
